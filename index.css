@@ -32,6 +32,13 @@ html{
 		background-position: -600px -100px;
 	}
 }
+
+@media (max-width: 370px){
+	html{
+		background-size: 400%;
+		background-position: -600px -100px;
+	}
+}
 .logo{
 	width:100%;
 	margin:0 auto;
