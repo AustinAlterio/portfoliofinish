@@ -1,0 +1,88 @@
+html{
+	background-image: url("City.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: rgba(0,0,0,.5)
+
+}
+
+body{
+	margin: 0 auto;
+}
+
+.KeyLogo{
+	text-align: center;
+
+}
+img{
+	width:65%;
+	margin:0 auto;
+}
+
+.alterio{
+	text-align: center;
+	padding-top: 20px;
+}
+.me{
+	width: 90%;
+}
+
+p{
+	color:white;
+	background-color: rgba(0,0,0,.5);
+	font-family: sans-serif;
+}
+
+@media (min-width: 725px){
+	.para1{
+		float:left;
+		width:300px;
+		padding-left:50px;
+	}
+	.para2{
+		float:right;
+		width: 300px;
+		padding-right:50px;
+	}
+}
+
+@media (min-width: 880px){
+	.para1{
+		float:left;
+		width:350px;
+		padding-left:50px;
+	}
+	.para2{
+		float:right;
+		width: 350px;
+		padding-right:50px;
+	}
+}
+
+
+@media (min-width: 950px){
+	.para1{
+		float:left;
+		width:400px;
+		padding-left:50px;
+		font-size:110%;
+	}
+	.para2{
+		float:right;
+		width: 400px;
+		padding-right:50px;
+		font-size:110%;
+	}
+}
+@media (min-width: 1130px){
+	.para1{
+		float:left;
+		width:500px;
+		padding-left:50px;
+	}
+	.para2{
+		float:right;
+		width: 500px;
+		padding-right:50px;
+	}
+}
