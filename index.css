@@ -39,6 +39,18 @@ html{
 		background-position: -600px -100px;
 	}
 }
+@media (max-width: 330px){
+	html{
+		background-size: 450%;
+		background-position: -600px -100px;
+	}
+}
+@media (max-width: 300px){
+	html{
+		background-size: 450%;
+		background-position: -600px -100px;
+	}
+}
 .logo{
 	width:100%;
 	margin:0 auto;
