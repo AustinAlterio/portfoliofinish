@@ -1,0 +1,92 @@
+body{
+	width:1000px;
+	padding-right:500px;
+	font-size:14px;
+	margin: 0 auto;
+}
+.back{
+	text-align: center;
+	margin-top: 1%;
+}
+h1{
+text-align:center;
+	}
+h3{
+	text-align:center;
+	margin-bottom:-1em;
+	}
+#address{
+	text-align:center;
+}
+ul{
+	list-style-position:inside;
+	margin-top:-1em;
+}
+#schooling{
+	width:1000px;
+}
+#education{
+	margin-bottom:-2em;
+}
+#UCONN{
+	float:left;
+	margin-left:15em;
+	margin-top:2em;
+
+}
+#MARYLAND{
+	float:right;
+	margin-right:15em;
+	margin-top:2em;
+	position:relative;
+	display: inline-block;
+}
+
+#GPA{
+	text-align:center;
+	padding-top:4em;
+}
+
+#luzzis{
+	padding-left:15em;
+	width:300px;
+	float:left;
+}
+#luzzis2{
+	margin-top:-1em;
+}
+#lumberyard{
+	width:300px;
+	float:right;
+	padding-right:7em;
+}
+#lumberyard2{
+	margin-top:-1em;
+}
+#RCC{
+	float:right;
+	width:300px;
+	padding-right:7em;
+	margin-top:-2em;
+}
+#RCC2{
+	margin-top:-1em;
+}
+
+
+#award{
+	width:300px;
+	float:left;
+	margin-top:-2.5em;
+	padding-left:25em;
+	text-align:center;
+}
+html{
+	background-image:url("https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10450151_10152742813914053_2509971833795656774_n.jpg?oh=74855ef3f3c411079474b16bfdefcc8d&oe=558E9292&__gda__=1431551469_eea66ff7e4441c5a47a77e06b5c510f3");
+	background-position:7% 30%;
+	background-repeat: no-repeat;
+}
+
+
+
+
